@@ -5,7 +5,7 @@
     text-align: center;
 }
 .header nav{
-    background-color: rgb(42, 148, 143);
+    background-color: rgb(103, 179, 68);
     line-height: 40px;
     font-size: 20px;
 }
@@ -16,5 +16,6 @@ nav a{
     padding: 5px;
 }
 nav a:hover{
-    background-color: rgb(58, 57, 52);
+    background-color: rgb(219, 197, 84);
+    text-decoration: none;
 }
